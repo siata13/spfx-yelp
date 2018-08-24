@@ -218,5 +218,6 @@ export default class SpFxYelpWebPart extends BaseClientSideWebPart<ISpFxYelpWebP
     if (value === null || value.trim().length === 0) {
       return "Provide a value";
     }
+    return "";
   }
 }
