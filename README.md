@@ -1,6 +1,6 @@
 ## spfx-yelp
 
-This is where you include your WebPart documentation.
+SPFX Yelp Demo web part.
 
 ### Building the code
 
@@ -8,7 +8,7 @@ This is where you include your WebPart documentation.
 git clone the repo
 npm i
 npm i -g gulp
-gulp
+gulp serve
 ```
 
 This package produces the following:
