@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fx-yelp-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spFxYelp/SpFxYelpWebPart.js",
+          "manifest": "./src/webparts/spFxYelp/SpFxYelpWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpFxYelpWebPartStrings": "lib/webparts/spFxYelp/loc/{locale}.js"
+  }
+}

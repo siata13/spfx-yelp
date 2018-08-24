@@ -1,0 +1,818 @@
+{
+  "businesses": [
+      {
+          "id": "E8RJkjfdcwgtyoPMjQ_Olg",
+          "alias": "four-barrel-coffee-san-francisco",
+          "name": "Four Barrel Coffee",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xs4GEA2BOpPYG7bh7o6GrA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/four-barrel-coffee-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 1991,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7670169511878,
+              "longitude": -122.42184275
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "375 Valencia St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "375 Valencia St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14152520800",
+          "display_phone": "(415) 252-0800",
+          "distance": 1452.8696502343696
+      },
+      {
+          "id": "MweAq9W5Vza9XdhO6j-z-w",
+          "alias": "four-barrel-coffee-san-francisco-4",
+          "name": "Four Barrel Coffee",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8II5S7UZ0SZk3LKlIDxiIw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/four-barrel-coffee-san-francisco-4?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 131,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7289353,
+              "longitude": -122.4036865
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "2 Burrows St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94134",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2 Burrows St",
+                  "San Francisco, CA 94134"
+              ]
+          },
+          "phone": "+14157158296",
+          "display_phone": "(415) 715-8296",
+          "distance": 4574.94181619907
+      },
+      {
+          "id": "-NbDKVqG170J19MqSQ5q_A",
+          "alias": "the-mill-san-francisco",
+          "name": "The Mill",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4EEI1JbS4EfWNdOjZrZPxw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/the-mill-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 996,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "bakeries",
+                  "title": "Bakeries"
+              },
+              {
+                  "alias": "desserts",
+                  "title": "Desserts"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7764801534107,
+              "longitude": -122.437750024358
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "736 Divisadero St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94117",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "736 Divisadero St",
+                  "San Francisco, CA 94117"
+              ]
+          },
+          "phone": "+14153451953",
+          "display_phone": "(415) 345-1953",
+          "distance": 1736.2808394903705
+      },
+      {
+          "id": "VD527WwvrhE3Nhzf5vaMNw",
+          "alias": "sightglass-coffee-san-francisco-7",
+          "name": "Sightglass Coffee",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VvIdff1CYKK7fX45ro04bA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/sightglass-coffee-san-francisco-7?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 1655,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7768998,
+              "longitude": -122.4086371
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "270 Seventh St",
+              "address2": "",
+              "address3": null,
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "270 Seventh St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14158611313",
+          "display_phone": "(415) 861-1313",
+          "distance": 3023.3683621763153
+      },
+      {
+          "id": "VOoHZDC-dgDUzTSsmgESOQ",
+          "alias": "ritual-coffee-roasters-san-francisco",
+          "name": "Ritual Coffee Roasters",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3uBx1xFI68H7QRpz-Hae8g/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/ritual-coffee-roasters-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 1824,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.75642,
+              "longitude": -122.42137
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "1026 Valencia St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94110",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1026 Valencia St",
+                  "San Francisco, CA 94110"
+              ]
+          },
+          "phone": "+14156411011",
+          "display_phone": "(415) 641-1011",
+          "distance": 1413.0186869297863
+      },
+      {
+          "id": "zEa872CgMv9iaFxsUafE2g",
+          "alias": "red-door-coffee-san-francisco",
+          "name": "Red Door Coffee",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8BO_bl7wAmETYF_i2irTnw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/red-door-coffee-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 128,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.787385,
+              "longitude": -122.399547
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "111 Minna St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94105",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "111 Minna St",
+                  "San Francisco, CA 94105"
+              ]
+          },
+          "phone": "+14159741719",
+          "display_phone": "(415) 974-1719",
+          "distance": 4380.854491120261
+      },
+      {
+          "id": "I0UVBT1-k0LqUICRLr9l5A",
+          "alias": "dynamo-donut-and-coffee-san-francisco-4",
+          "name": "Dynamo Donut & Coffee",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8-b9sy2cf5nEMu7C6_V83w/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/dynamo-donut-and-coffee-san-francisco-4?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 1777,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "donuts",
+                  "title": "Donuts"
+              },
+              {
+                  "alias": "cakeshop",
+                  "title": "Patisserie/Cake Shop"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.752971,
+              "longitude": -122.407676
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "2760 24th St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94110",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2760 24th St",
+                  "San Francisco, CA 94110"
+              ]
+          },
+          "phone": "+14159201978",
+          "display_phone": "(415) 920-1978",
+          "distance": 2678.5748422127426
+      },
+      {
+          "id": "2XQm-uFcTS7oc8MFP-8olA",
+          "alias": "b-patisserie-san-francisco-2",
+          "name": "B Patisserie",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XTYhrQZRMt9-BGAWj0tyog/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/b-patisserie-san-francisco-2?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 2078,
+          "categories": [
+              {
+                  "alias": "bakeries",
+                  "title": "Bakeries"
+              },
+              {
+                  "alias": "cakeshop",
+                  "title": "Patisserie/Cake Shop"
+              },
+              {
+                  "alias": "macarons",
+                  "title": "Macarons"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.78783,
+              "longitude": -122.44073
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "2821 California St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94115",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2821 California St",
+                  "San Francisco, CA 94115"
+              ]
+          },
+          "phone": "+14154401700",
+          "display_phone": "(415) 440-1700",
+          "distance": 3024.692512860378
+      },
+      {
+          "id": "t0MUKjSjCaQeXHTGQlfosg",
+          "alias": "home-san-francisco-30",
+          "name": "Home",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/unZIOYLEImKZyN4eo0Gumg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/home-san-francisco-30?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 883,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.7544539255473,
+              "longitude": -122.477013878524
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "1222 Noriega St",
+              "address2": null,
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94122",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1222 Noriega St",
+                  "San Francisco, CA 94122"
+              ]
+          },
+          "phone": "+14157420038",
+          "display_phone": "(415) 742-0038",
+          "distance": 3637.584119729665
+      },
+      {
+          "id": "--MEcbyEUxGIuh4jT7vufQ",
+          "alias": "four-barrel-coffee-stand-san-francisco",
+          "name": "Four Barrel Coffee Stand",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CUuzAbiQCQ_XZ3jo8HHHDw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/four-barrel-coffee-stand-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 5,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7951001816931,
+              "longitude": -122.393751069903
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "1 Sausalito - San Francisco Ferry Bldg",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94111",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "1 Sausalito - San Francisco Ferry Bldg",
+                  "San Francisco, CA 94111"
+              ]
+          },
+          "phone": "",
+          "display_phone": "",
+          "distance": 5342.588646466409
+      },
+      {
+          "id": "onRIsGoPO9hB9yVuTRNNjg",
+          "alias": "mission-edge-cafe-daly-city",
+          "name": "Mission Edge Cafe",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LK-54buODz6l_kKzH26S4g/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/mission-edge-cafe-daly-city?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 353,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "breakfast_brunch",
+                  "title": "Breakfast & Brunch"
+              },
+              {
+                  "alias": "tradamerican",
+                  "title": "American (Traditional)"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.70786,
+              "longitude": -122.45467
+          },
+          "transactions": [
+              "pickup",
+              "delivery"
+          ],
+          "price": "$",
+          "location": {
+              "address1": "5999 Mission St",
+              "address2": "",
+              "address3": "",
+              "city": "Daly City",
+              "zip_code": "94014",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "5999 Mission St",
+                  "Daly City, CA 94014"
+              ]
+          },
+          "phone": "+14153255980",
+          "display_phone": "(415) 325-5980",
+          "distance": 6110.784613972863
+      },
+      {
+          "id": "jTk2zGDdDSVKk3oA0v37xg",
+          "alias": "pentacle-coffee-san-francisco-2",
+          "name": "Pentacle Coffee",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T6L2MGljzTwf5jFnquTMUA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/pentacle-coffee-san-francisco-2?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 45,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 5,
+          "coordinates": {
+              "latitude": 37.78117,
+              "longitude": -122.40936
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "64 6th St",
+              "address2": "",
+              "address3": null,
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "64 6th St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14155086258",
+          "display_phone": "(415) 508-6258",
+          "distance": 3278.901489568377
+      },
+      {
+          "id": "lNbKeOfCMTNkoihZHqrbrg",
+          "alias": "blue-bottle-coffee-san-francisco-21",
+          "name": "Blue Bottle Coffee",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YKoMObZPbtVi1l7f3g4xwg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/blue-bottle-coffee-san-francisco-21?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 2130,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7824664727379,
+              "longitude": -122.407753326389
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "66 Mint St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "66 Mint St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+15106533394",
+          "display_phone": "(510) 653-3394",
+          "distance": 3480.1988579855497
+      },
+      {
+          "id": "l3CO569of8E_Dw7ITfrqiw",
+          "alias": "grand-coffee-san-francisco",
+          "name": "Grand Coffee",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G2-96SLXFoF7zV-NX1jyBA/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/grand-coffee-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 170,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.75439,
+              "longitude": -122.41846
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "2663 Mission St",
+              "address2": null,
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94110",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2663 Mission St",
+                  "San Francisco, CA 94110"
+              ]
+          },
+          "phone": "",
+          "display_phone": "",
+          "distance": 1729.3826721107102
+      },
+      {
+          "id": "b-qKz-s2lYfWnIQJ4QukZQ",
+          "alias": "stanza-coffee-san-francisco",
+          "name": "Stanza Coffee",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8w-VQ8iLnzQ1cekd-8mvhw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/stanza-coffee-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 293,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7648968,
+              "longitude": -122.4225344
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "3126 16th St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94103",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "3126 16th St",
+                  "San Francisco, CA 94103"
+              ]
+          },
+          "phone": "+14155538966",
+          "display_phone": "(415) 553-8966",
+          "distance": 1301.2721119482899
+      },
+      {
+          "id": "Rc9abU8CqE__VBgttD3VyA",
+          "alias": "chapel-hill-coffee-san-francisco",
+          "name": "Chapel Hill Coffee",
+          "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_z8WhD8dg9wY1hjY9CBjiw/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/chapel-hill-coffee-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 52,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.794135537286,
+              "longitude": -122.404256947339
+          },
+          "transactions": [],
+          "price": "$$",
+          "location": {
+              "address1": "670 Commercial St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94111",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "670 Commercial St",
+                  "San Francisco, CA 94111"
+              ]
+          },
+          "phone": "",
+          "display_phone": "",
+          "distance": 4654.252280734854
+      },
+      {
+          "id": "K8EcFpeCVOOJNYlWE6gMcQ",
+          "alias": "rapha-san-francisco-san-francisco",
+          "name": "Rapha - San Francisco",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S9LK42V1QvULWnDIEmZI-A/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/rapha-san-francisco-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 98,
+          "categories": [
+              {
+                  "alias": "sportswear",
+                  "title": "Sports Wear"
+              },
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7982491,
+              "longitude": -122.4356125
+          },
+          "transactions": [],
+          "price": "$$$",
+          "location": {
+              "address1": "2198 Filbert St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94123",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "2198 Filbert St",
+                  "San Francisco, CA 94123"
+              ]
+          },
+          "phone": "+14158964671",
+          "display_phone": "(415) 896-4671",
+          "distance": 4153.741422904627
+      },
+      {
+          "id": "6U1RGouO2I05SVfwIqbZmA",
+          "alias": "the-richfield-san-francisco",
+          "name": "The Richfield",
+          "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V2wVlKHym6i9CBOjI1PjJQ/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/the-richfield-san-francisco?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 136,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "tradamerican",
+                  "title": "American (Traditional)"
+              }
+          ],
+          "rating": 4.5,
+          "coordinates": {
+              "latitude": 37.78496,
+              "longitude": -122.46377
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "195 5th Ave",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94118",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "195 5th Ave",
+                  "San Francisco, CA 94118"
+              ]
+          },
+          "phone": "",
+          "display_phone": "",
+          "distance": 3593.3486880600276
+      },
+      {
+          "id": "FaT8F0_7su4exwvKJ8ULPw",
+          "alias": "r??veille-coffee-co-san-francisco-6",
+          "name": "R??veille Coffee Co.",
+          "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5hVwjr4G_CtQER3iifAu0w/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/r%C3%A9veille-coffee-co-san-francisco-6?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 370,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              },
+              {
+                  "alias": "cafes",
+                  "title": "Cafes"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7610599441666,
+              "longitude": -122.434422304778
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "4076 18th St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94114",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "4076 18th St",
+                  "San Francisco, CA 94114"
+              ]
+          },
+          "phone": "+14157896258",
+          "display_phone": "(415) 789-6258",
+          "distance": 178.89162092506854
+      },
+      {
+          "id": "qCNfOc-4Sd0Q0Ta37PdwbA",
+          "alias": "red-door-coffee-san-francisco-3",
+          "name": "Red Door Coffee",
+          "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qdUqzsobR2TSY7E0l0fKdg/o.jpg",
+          "is_closed": false,
+          "url": "https://www.yelp.com/biz/red-door-coffee-san-francisco-3?adjust_creative=ZL4ozqMCOQs7sZO8aCcXTA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=ZL4ozqMCOQs7sZO8aCcXTA",
+          "review_count": 58,
+          "categories": [
+              {
+                  "alias": "coffee",
+                  "title": "Coffee & Tea"
+              }
+          ],
+          "rating": 4,
+          "coordinates": {
+              "latitude": 37.7880967519643,
+              "longitude": -122.396264970303
+          },
+          "transactions": [],
+          "price": "$",
+          "location": {
+              "address1": "505 Howard St",
+              "address2": "",
+              "address3": "",
+              "city": "San Francisco",
+              "zip_code": "94105",
+              "country": "US",
+              "state": "CA",
+              "display_address": [
+                  "505 Howard St",
+                  "San Francisco, CA 94105"
+              ]
+          },
+          "phone": "+14159741719",
+          "display_phone": "(415) 974-1719",
+          "distance": 4649.570752989083
+      }
+  ],
+  "total": 532,
+  "region": {
+      "center": {
+          "longitude": -122.43644714355469,
+          "latitude": 37.76089938976322
+      }
+  }
+}
